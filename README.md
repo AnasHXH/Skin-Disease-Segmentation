@@ -75,7 +75,7 @@ For more examples, see the notebook:
 
 ## Citation
 If you use this work, please consider citing our paper:
-> **Skin Disease Segmentation and Harmonizing Global and Local Features via Hyper-Attention Fusion U-Net with SAM Integration**, Ibrahim Abd El‑Fattah et al.
+> **Skin Disease Segmentation and Harmonizing Global and Local Features via Hyper-Attention Fusion U-Net with SAM Integration**,
 
 ---
 
